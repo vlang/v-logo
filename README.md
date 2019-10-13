@@ -6,11 +6,11 @@ Unofficial Logo for V Programming Language | http://vlang.io
 
 ### PNG
 
-  <img src="https://raw.githubusercontent.com/donnisnoni95/v-logo/master/dist/v-logo.png?sanititze=true" title="V Programming Language Logo" alt="V Programming Language Logo" width="500">
+  <img src="https://raw.githubusercontent.com/donnisnoni95/v-logo/master/dist/v-logo.png" title="V Programming Language Logo" alt="V Programming Language Logo" width="500">
 
 ### SVG
 
-  <img src="https://raw.githubusercontent.com/donnisnoni95/v-logo/master/dist/v-logo.svg?sanititze=true" title="V Programming Language Logo" alt="V Programming Language Logo" width="500">
+<img src="https://raw.githubusercontent.com/donnisnoni95/v-logo/master/dist/v-logo.svg?sanitize=true" title="V Programming Language Logo" alt="V Programming Language Logo" width="500">
 
 ## Contributing
 
