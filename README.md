@@ -1,6 +1,6 @@
 # v-logo
 
-Unofficial Logo for V Programming Language | http://vlang.io
+Official Logo for V Programming Language | http://vlang.io
 
 ## Preview
 
