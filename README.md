@@ -6,7 +6,7 @@ Official Logo for the V Programming Language | https://vlang.io
 
 ### PNG
 
-  <img src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.png" title="V Programming Language Logo" alt="V Programming Language Logo" width="500">
+  <img src="https://github.com/pranayteaches/v-logo/blob/master/src/vlang.jpg" title="V Programming Language Logo" alt="V Programming Language Logo" width="500">
 
 ### SVG
 
