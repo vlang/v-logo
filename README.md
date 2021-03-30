@@ -1,3 +1,11 @@
+*The Logo design for "V Programming Language Taiwan User community".*
+
+*This repository is forked from [vlang/v-logo](https://github.com/vlang-tw/v-logo).*
+
+![V Programming Language Taiwan User community Logo](dist/v-community/v-community-logo_zh-tw.png)
+
+**========== Original README ==========**
+
 # v-logo
 
 Official Logo for the V Programming Language | https://vlang.io
